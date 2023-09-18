@@ -42,7 +42,7 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 [ x ] Folders setup
 
-[ ] Authentication
+[ x ] Authentication using the Clerck.com service
 
 [ ] Layout
 [ ] Dynamic Layout

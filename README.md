@@ -32,3 +32,45 @@ You can check out [the Next.js GitHub repository](https://github.com/vercel/next
 The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
 
 Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+
+
+Staps:
+
+[x] Intro & Demo
+[x] Environment setup
+[ ] Folders setup
+[ ] Authentication
+[ ] Layout
+[ ] Dynamic Layout
+[ ] Course Creation UI
+[ ] Prisma & DB setup
+[ ] Course Creation API
+[ ] Course Edit Page UI
+[ ] Course Title Form
+[ ] Course Description Form
+[ ] UploadThing & Image Form
+[ ] Course Category Form
+[ ] Course Price Form
+[ ] Course Attachment Form
+[ ] Prisma schema finalization
+[ ] Chapter Creation API
+[ ] Chapter Reorder Functionality
+[ ] Chapter Edit Page UI
+[ ] Chapter Description Form
+[ ] Chapter Access Form
+[ ] Mux Setup & Chapter Video Form
+[ ] Chapter Publish Action
+[ ] Course Publish Action
+[ ] Courses Data Table
+[ ] Categories Query
+[ ] Search Query
+[ ] Course Grid &  Card UI
+[ ] Course & Chapters Layout
+[ ] Chapter HLS Video Player
+[ ] Course Purchase UI
+[ ] Stripe Integration
+[ ] Chapter Progress Functionality
+[ ] Student Dashboard
+[ ] Teacher Analytics Dashboard
+[ ] (Optional) Admin Protection
+[ ] Deployment

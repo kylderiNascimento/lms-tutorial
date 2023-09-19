@@ -44,7 +44,10 @@ Check out our [Next.js deployment documentation](https://nextjs.org/docs/deploym
 
 [ x ] Authentication using the Clerck.com service
 
-[ ] Layout
+[ x ] Layout 
+        - Installs
+            "npx shadcn-ui@latest add sheet"
+
 [ ] Dynamic Layout
 [ ] Course Creation UI
 [ ] Prisma & DB setup
